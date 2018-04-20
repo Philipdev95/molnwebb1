@@ -19,8 +19,6 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,600" rel="stylesheet">
   </head>
   <body>
-    <div class="container theme-showcase" role="main">
-    </div>
     <div class="page-header">
       <h1>Unicorn Name</h1>
     </div>
