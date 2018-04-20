@@ -20,19 +20,7 @@
   </head>
   <body>
     <div class="container theme-showcase" role="main">
-      <div class="page-header">
-        <h1>Unicorn List</h1>
-      </div>
-      <div class="col-xs-12">
-        <div class="list-group">
-          <a href="#" class="list-group-item">Unicorn 1</a>
-          <a href="#" class="list-group-item">Unicorn 2</a>
-          <a href="#" class="list-group-item">Unicorn 3</a>
-          <a href="#" class="list-group-item">Unicorn 4</a>
-          <a href="#" class="list-group-item">Unicorn 5</a>
-        </div>
-      </div><!-- /.col-sm-4 -->
-
+    </div>
     <div class="page-header">
       <h1>Unicorn Name</h1>
     </div>
